@@ -1,23 +1,24 @@
-# Olá, eu sou o Thiago
+<!-- BANNER -->
 
-### Estudante de Sistemas de Informação | Desenvolvedor em formação
+<div align="center">
 
-Sou estudante de **Sistemas de Informação**, atualmente no **3º ano da graduação**, construindo minha trajetória na área de tecnologia através de estudos, cursos e projetos próprios.
+# THIAGO OLIVEIRA LIMA
 
-Comecei meus estudos em programação com **HTML, CSS, JavaScript e Python** e, desde então, venho buscando transformar o que aprendo em projetos práticos.
+### Estudante de Sistemas de Informação • Desenvolvedor em formação
 
-Atualmente, também complemento minha formação através de cursos da **Alura**, aprofundando meus conhecimentos em programação e desenvolvimento web.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&section=header"/>
+
+</div>
 
 ---
 
 ## Sobre mim
 
-- Estudante de Sistemas de Informação — 3º ano
-- Foco atual em Desenvolvimento Web
-- Estudos em HTML, CSS, JavaScript e Python
-- Cursos complementares pela Alura
-- Interesse em desenvolvimento de projetos e construção de portfólio
-- Gosto de unir programação, criatividade e design
+Sou estudante de **Sistemas de Informação**, atualmente no **3º ano da graduação**, construindo minha trajetória na área de tecnologia através de estudos, cursos e projetos próprios.
+
+Comecei meus estudos em programação com **HTML, CSS, JavaScript e Python** e, desde então, venho buscando transformar aquilo que aprendo em projetos práticos.
+
+Atualmente, também complemento minha formação através de cursos da **Alura**, aprofundando meus conhecimentos em programação e desenvolvimento web.
 
 ---
 
@@ -25,16 +26,20 @@ Atualmente, também complemento minha formação através de cursos da **Alura**
 
 ### Desenvolvimento
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E63946"/>
+  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=E63946"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=E63946"/>
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E63946"/>
+</p>
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=E63946"/>
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=E63946"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=E63946"/>
+</p>
 
 ---
 
@@ -48,8 +53,6 @@ Meu objetivo é construir uma base sólida para minha carreira em tecnologia e u
 
 ## Projetos
 
-Alguns dos projetos que fazem parte da minha jornada:
-
 ### Yasuo Wiki
 
 Projeto desenvolvido para estudar **desenvolvimento web, organização de interfaces, HTML e CSS**, criando uma experiência inspirada em sites Wiki de personagens.
@@ -58,11 +61,11 @@ Projeto desenvolvido para estudar **desenvolvimento web, organização de interf
 
 Projetos desenvolvidos para colocar meus conhecimentos em prática, explorando:
 
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
 - Interfaces Web
 - Dashboards
 - Sistemas
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
 - Responsividade
 - Experiência do usuário
 
@@ -72,11 +75,11 @@ Projetos desenvolvidos para colocar meus conhecimentos em prática, explorando:
 
 Fora da programação, tenho interesse por diferentes formas de contar histórias e criar experiências.
 
-Gosto de **jogos indies**, principalmente aqueles que conseguem apresentar ideias criativas mesmo com propostas menores.
+Gosto de **jogos indies**, principalmente aqueles que conseguem apresentar ideias criativas e experiências marcantes.
 
 Também tenho interesse por **RPGs de mesa** e **RPGs japoneses**, especialmente pela construção de mundos, personagens e histórias.
 
-Acredito que essas experiências também influenciam a maneira como vejo projetos de tecnologia: não apenas como código, mas como algo que pode criar experiências e contar histórias.
+Acredito que essas experiências também influenciam a maneira como vejo projetos de tecnologia: não apenas como código, mas como algo capaz de criar experiências.
 
 ---
 
@@ -84,13 +87,18 @@ Acredito que essas experiências também influenciam a maneira como vejo projeto
 
 ```text
 HTML & CSS
-     ↓
+     │
+     ▼
 JavaScript & Python
-     ↓
+     │
+     ▼
 Projetos próprios
-     ↓
+     │
+     ▼
 Mais estudos
-     ↓
+     │
+     ▼
 Projetos cada vez maiores
-     ↓
+     │
+     ▼
 Novos desafios
