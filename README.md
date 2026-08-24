@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" width="500">
+<img src="Copilot_20260824_181339.png" width="500">
 
 </div>
 
