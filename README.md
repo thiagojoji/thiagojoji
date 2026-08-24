@@ -1,348 +1,398 @@
 <div align="center">
 
-<br>
+# THIAGO LIMA
 
-<!-- HEADER -->
+### `FRONT-END DEVELOPER IN PROGRESS`
 
-<img src="assets/persona-header.png" width="100%" alt="Thiago Lima - Developer">
-
-<br>
-
-<h1>
-<span style="color:#e50914;">THIAGO LIMA</span>
-</h1>
-
-<h3>
-INFORMATION SYSTEMS STUDENT
-</h3>
-
-<p>
-<b>DEVELOPER IN PROGRESS</b> • <b>WEB DEVELOPMENT</b> • <b>PYTHON</b>
-</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-e50914?style=for-the-badge&labelColor=050505">
-
-<img src="https://img.shields.io/badge/SYSTEMS%20INFORMATION-3%C2%BA%20YEAR-8b0000?style=for-the-badge&labelColor=050505">
-
-<br><br>
+**DESIGN × CODE × CREATIVITY**
 
 </div>
-
----
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-<h2>01 <span style="color:#e50914;">SOBRE MIM</span></h2>
-
-<p>
-Olá! Eu sou <b>Thiago Lima</b>, estudante de
-<b>Sistemas de Informação</b>, atualmente no
-<b>3º ano da graduação</b>.
-</p>
-
-<p>
-Minha jornada na programação começou através do
-desenvolvimento web, estudando <b>HTML, CSS,
-JavaScript e Python</b>.
-</p>
-
-<p>
-Atualmente utilizo a <b>Alura</b> como parte da minha
-formação complementar, buscando transformar teoria
-em prática através de projetos.
-</p>
-
-<br>
-
-<p align="center">
-<b>
-LEARN • BUILD • BREAK • FIX • REPEAT
-</b>
-</p>
-
-</td>
-
-<td width="45%" valign="top">
-
-<h2>02 <span style="color:#e50914;">MINHA STACK</span></h2>
-
-<h3>FRONT-END</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" height="55">
-</p>
-
-<h3>PROGRAMMING</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="55">
-</p>
-
-<h3>TOOLS</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45">
-</p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-<h2>
-03 <span style="color:#e50914;">PROJETOS EM DESTAQUE</span>
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E60012&height=120&section=header&text=DESIGN%20%2B%20CODE&fontColor=FFFFFF&fontSize=32&fontAlignY=65" width="100%"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+> **DESIGN + CODE = MY SPACE**
+
+</div>
+
+<br>
+
+---
+
+# ╱╱ 01 — ABOUT ME
+
+<div align="center">
+
+### `TURNING IDEAS INTO INTERFACES`
+
+</div>
+
+Sou estudante de **Sistemas de Informação**, atualmente no **3º ano**, construindo minha jornada no desenvolvimento **Front-End**.
+
+Minha trajetória começou no **Design Gráfico**, área em que desenvolvi minha formação na **Universidade Anhembi Morumbi**.
+
+Foi no Front-End que encontrei uma maneira de unir essas duas áreas:
+
+**DESIGN + TECHNOLOGY**
+
+Gosto de transformar ideias em interfaces, trabalhando com composição visual, tipografia, cores, layouts, responsividade e interatividade.
+
+Mais do que simplesmente escrever código, quero criar experiências que tenham **personalidade, propósito e identidade visual**.
+
+<br>
+
+<div align="center">
+
+`DESIGN` &nbsp; × &nbsp; `CODE` &nbsp; × &nbsp; `CREATIVITY`
+
+</div>
+
+---
+
+# ╱╱ 02 — BACKGROUND
+
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>
-<span style="color:#e50914;">YASUO WIKI</span>
-</h3>
+## 🎨 DESIGN
 
-<img src="assets/yasuo-wiki.png" width="100%">
+### GRAPHIC DESIGN
 
-<p>
-Wiki interativa dedicada ao campeão Yasuo,
-desenvolvida para colocar em prática conceitos
-de desenvolvimento web, organização de conteúdo,
-design e experiência do usuário.
-</p>
+**Universidade Anhembi Morumbi**
 
-<p>
-<b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b>
-</p>
+Minha formação em Design Gráfico influencia diretamente a maneira como penso interfaces e experiências digitais.
+
+**FOCUS**
+
+`COMPOSITION`  
+`TYPOGRAPHY`  
+`COLOR`  
+`VISUAL IDENTITY`  
+`USER EXPERIENCE`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-<span style="color:#e50914;">PORTFÓLIO PROJECTS</span>
-</h3>
+## 💻 TECHNOLOGY
 
-<img src="assets/projects.png" width="100%">
+### SYSTEMS INFORMATION
 
-<p>
-Projetos desenvolvidos durante minha jornada de
-aprendizado, explorando diferentes tecnologias,
-ideias e desafios.
-</p>
+**3rd Year**
 
-<p>
-<b>WEB</b> • <b>PYTHON</b> • <b>JAVASCRIPT</b>
-</p>
+Minha formação atual amplia minha visão sobre tecnologia, programação e desenvolvimento de sistemas.
+
+**FOCUS**
+
+`PROGRAMMING`  
+`WEB DEVELOPMENT`  
+`LOGIC`  
+`SOFTWARE`  
+`TECHNOLOGY`
 
 </td>
-
 </tr>
 </table>
-
----
-
-<div align="center">
-
-<h2>
-04 <span style="color:#e50914;">ATUALMENTE ESTUDANDO</span>
-</h2>
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3>
-<span style="color:#e50914;">JAVASCRIPT</span>
-</h3>
-
-<p>
-Aprofundando meus conhecimentos em JavaScript,
-DOM, eventos, lógica e APIs.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3>
-<span style="color:#e50914;">PYTHON</span>
-</h3>
-
-<p>
-Construindo uma base sólida em Python e explorando
-lógica, automação e desenvolvimento de aplicações.
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3>
-<span style="color:#e50914;">WEB DEVELOPMENT</span>
-</h3>
-
-<p>
-Estudando responsividade, organização de código,
-UI/UX e boas práticas.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3>
-<span style="color:#e50914;">SOFTWARE DEVELOPMENT</span>
-</h3>
-
-<p>
-Aprendendo a transformar ideias em projetos
-funcionais e organizados.
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<h2>
-05 <span style="color:#e50914;">FORMAÇÃO</span>
-</h2>
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>
-<span style="color:#e50914;">SISTEMAS DE INFORMAÇÃO</span>
-</h3>
-
-<p>
-<b>3º ano da graduação</b>
-</p>
-
-<p>
-Formação acadêmica voltada para tecnologia,
-desenvolvimento de software, sistemas e
-resolução de problemas.
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-<span style="color:#e50914;">ALURA</span>
-</h3>
-
-<p>
-Formação complementar através de cursos de
-programação, desenvolvimento web e lógica.
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<h2>
-06 <span style="color:#e50914;">GITHUB STATS</span>
-</h2>
 
 <br>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=e50914&icon_color=e50914"
-height="180"
+<div align="center">
 
->
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=e50914"
-height="180"
-
->
+# DESIGN + CODE = MY SPACE
 
 </div>
 
 ---
 
+# ╱╱ 03 — FRONT-END
+
 <div align="center">
 
-<h2>
-07 <span style="color:#e50914;">CONNECT</span>
-</h2>
+### `MY CURRENT ARSENAL`
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
-
-<img
-src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white&labelColor=e50914"
-
->
-
+<a href="#">
+<img src="https://skillicons.dev/icons?i=html" height="70"/>
 </a>
 
- 
-
-<a href="https://www.linkedin.com/">
-
-<img
-src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=e50914"
-
->
-
+<a href="#">
+<img src="https://skillicons.dev/icons?i=css" height="70"/>
 </a>
 
-<br><br>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=javascript" height="70"/>
+</a>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br><br>
-
-<h1>
-<span style="color:#e50914;">TAKE YOUR TIME</span>
-</h1>
-
-<h3>
-SONHOS SÃO REALIDADES.
-</h3>
-
-<br>
-
-<sub>
-Thiago Lima • Information Systems • 2026
-</sub>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=python" height="70"/>
+</a>
 
 </div>
 
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### HTML5
+
+Structure  
+Semantic HTML
+
+</td>
+
+<td align="center" width="25%">
+
+### CSS3
+
+Layouts  
+Responsive Design
+
+</td>
+
+<td align="center" width="25%">
+
+### JAVASCRIPT
+
+Logic  
+Interaction
+
+</td>
+
+<td align="center" width="25%">
+
+### PYTHON
+
+Programming  
+Logic
+
+</td>
+</tr>
+</table>
+
+---
+
+# ╱╱ 04 — WHAT I BUILD
+
+<div align="center">
+
+### `CREATIVITY IN CODE`
+
+</div>
+
+<table>
+<tr>
+<td align="center">
+
+### ◢
+
+**WEBSITES**
+
+</td>
+
+<td align="center">
+
+### ◢
+
+**LANDING PAGES**
+
+</td>
+
+<td align="center">
+
+### ◢
+
+**INTERFACES**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ◢
+
+**DASHBOARDS**
+
+</td>
+
+<td align="center">
+
+### ◢
+
+**INTERACTIVE UI**
+
+</td>
+
+<td align="center">
+
+### ◢
+
+**VISUAL PROJECTS**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+Meu objetivo é desenvolver projetos que combinem **funcionalidade e identidade visual**, utilizando programação como uma ferramenta para transformar conceitos em experiências digitais.
+
+---
+
+# ╱╱ 05 — PROJECTS
+
+## 🃏 YASUO WIKI
+
+> A Front-End Wiki project focused on design, organization and interactive content.
+
+**TECHNOLOGIES**
+
+`HTML5` `CSS3` `JAVASCRIPT`
+
+**FOCUS**
+
+`UI` · `LAYOUT` · `RESPONSIVENESS` · `INTERACTION`
+
+<br>
+
+---
+
+## ◢ PORTFOLIO PROJECTS
+
+Projetos desenvolvidos durante minha evolução como desenvolvedor, explorando diferentes possibilidades dentro do desenvolvimento Web.
+
+`FRONT-END` `UI` `UX` `JAVASCRIPT`
+
+---
+
+# ╱╱ 06 — CURRENTLY LEARNING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### JAVASCRIPT
+
+Aprofundando:
+
+`DOM`  
+`EVENTS`  
+`LOGIC`  
+`APIs`  
+`INTERACTIVITY`
+
+</td>
+
+<td width="50%" valign="top">
+
+### CSS
+
+Explorando:
+
+`RESPONSIVE DESIGN`  
+`ADVANCED LAYOUTS`  
+`ANIMATIONS`  
+`UI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### FRONT-END
+
+Buscando melhorar cada vez mais minha capacidade de transformar conceitos visuais em experiências funcionais.
+
+</td>
+
+<td width="50%" valign="top">
+
+### PYTHON
+
+Continuando meus estudos de programação e lógica através de projetos e cursos.
+
+</td>
+</tr>
+</table>
+
+---
+
+# ╱╱ 07 — EDUCATION
+
+### 🎨 DESIGN GRÁFICO
+
+**Universidade Anhembi Morumbi**
+
+Formação em Design Gráfico.
+
+---
+
+### 💻 SISTEMAS DE INFORMAÇÃO
+
+**3º ANO**
+
+Formação acadêmica voltada para tecnologia, sistemas e desenvolvimento.
+
+---
+
+### 📚 ALURA
+
+Cursos complementares focados em programação e desenvolvimento.
+
+---
+
+# ╱╱ 08 — MINDSET
+
+<div align="center">
+
+## `I DON'T JUST WANT TO WRITE CODE.`
+
+### `I WANT TO CREATE SOMETHING PEOPLE WANT TO SEE.`
+
+<br>
+
+`DESIGN` → `CODE` → `EXPERIENCE`
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+# TAKE YOUR TIME
+
+### **SONHOS SÃO REALIDADES.**
+
+<br>
+
+`THIAGO LIMA`
+
+`DESIGN × CODE × CREATIVITY`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E60012&height=100&section=footer" width="100%"/>
+
+</div>
