@@ -27,7 +27,7 @@ Mais do que simplesmente escrever código, quero criar experiências que tenham 
 
 <td width="35%" align="center" valign="middle">
   
-<img src="https://github.com/thiagojoji/thiagojoji/edit/main/README.md" width="300">
+<img src="tumblr_pecq6eBHvH1xqd7tlo1_1280.gif" width="300">
 
 <img src="./assets/about-me.gif" width="300">
 
