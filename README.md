@@ -2,6 +2,10 @@
 
 <img src="logo about me.png" width="500">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=900" width="100%"/>
+
 </div>
 
 <table>
@@ -9,7 +13,7 @@
 
 <td width="65%" valign="top">
 
-### `TURNING IDEAS INTO INTERFACES`
+### 🔴 `TURNING IDEAS INTO INTERFACES`
 
 Sou estudante de **Sistemas de Informação**, atualmente no **3º ano**, construindo minha jornada no desenvolvimento **Front-End**.
 
@@ -17,7 +21,7 @@ Minha trajetória começou no **Design Gráfico**, área em que desenvolvi minha
 
 Foi no Front-End que encontrei uma maneira de unir essas duas áreas:
 
-**DESIGN + TECHNOLOGY**
+### 🔴 DESIGN + TECHNOLOGY
 
 Gosto de transformar ideias em interfaces, trabalhando com composição visual, tipografia, cores, layouts, responsividade e interatividade.
 
@@ -25,7 +29,11 @@ Mais do que simplesmente escrever código, quero criar experiências que tenham 
 
 <br>
 
-`DESIGN` &nbsp; × &nbsp; `CODE` &nbsp; × &nbsp; `CREATIVITY`
+<div align="center">
+
+`🔴 DESIGN` &nbsp; × &nbsp; `CODE` &nbsp; × &nbsp; `CREATIVITY`
+
+</div>
 
 </td>
 
@@ -39,20 +47,32 @@ Mais do que simplesmente escrever código, quero criar experiências que tenham 
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=900" width="100%"/>
+
+</div>
+
 ---
 
 <div align="center">
 
 <img src="Background logo.png" width="500">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=700" width="85%"/>
+
 </div>
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🎨 DESIGN
+## 🔴 DESIGN
 
 ### GRAPHIC DESIGN
 
@@ -60,7 +80,9 @@ Mais do que simplesmente escrever código, quero criar experiências que tenham 
 
 Minha formação em Design Gráfico influencia diretamente a maneira como penso interfaces e experiências digitais.
 
-**FOCUS**
+<br>
+
+### 🔴 FOCUS
 
 `COMPOSITION`  
 `TYPOGRAPHY`  
@@ -72,7 +94,7 @@ Minha formação em Design Gráfico influencia diretamente a maneira como penso 
 
 <td width="50%" valign="top">
 
-## 💻 TECHNOLOGY
+## ⚫ TECHNOLOGY
 
 ### SYSTEMS INFORMATION
 
@@ -80,7 +102,9 @@ Minha formação em Design Gráfico influencia diretamente a maneira como penso 
 
 Minha formação atual amplia minha visão sobre tecnologia, programação e desenvolvimento de sistemas.
 
-**FOCUS**
+<br>
+
+### 🔴 FOCUS
 
 `PROGRAMMING`  
 `WEB DEVELOPMENT`  
@@ -97,7 +121,11 @@ Minha formação atual amplia minha visão sobre tecnologia, programação e des
 
 <div align="center">
 
-# DESIGN + CODE = MY SPACE
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=500" width="60%"/>
+
+### 🔴 DESIGN + CODE = MY SPACE
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=500" width="60%"/>
 
 </div>
 
@@ -107,11 +135,11 @@ Minha formação atual amplia minha visão sobre tecnologia, programação e des
 
 <img src="Front Endd.png" width="500">
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=700" width="85%"/>
 
-### `MY CURRENT ARSENAL`
+### 🔴 `MY CURRENT ARSENAL`
 
 <br>
 
@@ -119,13 +147,19 @@ Minha formação atual amplia minha visão sobre tecnologia, programação e des
 <img src="https://skillicons.dev/icons?i=html" height="70"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="#">
 <img src="https://skillicons.dev/icons?i=css" height="70"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="#">
 <img src="https://skillicons.dev/icons?i=javascript" height="70"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="#">
 <img src="https://skillicons.dev/icons?i=python" height="70"/>
@@ -140,7 +174,7 @@ Minha formação atual amplia minha visão sobre tecnologia, programação e des
 
 <td align="center" width="25%">
 
-### HTML5
+### 🔴 HTML5
 
 Structure  
 Semantic HTML
@@ -149,7 +183,7 @@ Semantic HTML
 
 <td align="center" width="25%">
 
-### CSS3
+### 🔴 CSS3
 
 Layouts  
 Responsive Design
@@ -158,7 +192,7 @@ Responsive Design
 
 <td align="center" width="25%">
 
-### JAVASCRIPT
+### 🔴 JAVASCRIPT
 
 Logic  
 Interaction
@@ -167,7 +201,7 @@ Interaction
 
 <td align="center" width="25%">
 
-### PYTHON
+### 🔴 PYTHON
 
 Programming  
 Logic
@@ -177,38 +211,46 @@ Logic
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=900" width="100%"/>
+
+</div>
+
 ---
 
-# ╱╱ 04 — WHAT I BUILD
-
 <div align="center">
+
+## 🔴 ╱╱ 04 — WHAT I BUILD
 
 ### `CREATIVITY IN CODE`
 
 </div>
 
+<br>
+
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ◢
+### 🔴 ◢
 
 **WEBSITES**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ◢
+### 🔴 ◢
 
 **LANDING PAGES**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ◢
+### 🔴 ◢
 
 **INTERFACES**
 
@@ -218,25 +260,25 @@ Logic
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ◢
+### 🔴 ◢
 
 **DASHBOARDS**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ◢
+### 🔴 ◢
 
 **INTERACTIVE UI**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ◢
+### 🔴 ◢
 
 **VISUAL PROJECTS**
 
@@ -247,6 +289,12 @@ Logic
 
 <br>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=600" width="70%"/>
+
+</div>
+
 Meu objetivo é desenvolver projetos que combinem **funcionalidade e identidade visual**, utilizando programação como uma ferramenta para transformar conceitos em experiências digitais.
 
 ---
@@ -255,17 +303,23 @@ Meu objetivo é desenvolver projetos que combinem **funcionalidade e identidade 
 
 <img src="PROJECTS.png" width="500">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=700" width="85%"/>
+
 </div>
 
-## 🃏 YASUO WIKI
+<br>
+
+## 🔴 🃏 YASUO WIKI
 
 > A Front-End Wiki project focused on design, organization and interactive content.
 
-**TECHNOLOGIES**
+### 🔴 TECHNOLOGIES
 
 `HTML5` `CSS3` `JAVASCRIPT`
 
-**FOCUS**
+### 🔴 FOCUS
 
 `UI` · `LAYOUT` · `RESPONSIVENESS` · `INTERACTION`
 
@@ -273,22 +327,28 @@ Meu objetivo é desenvolver projetos que combinem **funcionalidade e identidade 
 
 ---
 
-## ◢ PORTFOLIO PROJECTS
+## 🔴 ◢ PORTFOLIO PROJECTS
 
 Projetos desenvolvidos durante minha evolução como desenvolvedor, explorando diferentes possibilidades dentro do desenvolvimento Web.
 
 `FRONT-END` `UI` `UX` `JAVASCRIPT`
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=900" width="100%"/>
+
+</div>
+
 ---
 
-# ╱╱ 06 — CURRENTLY LEARNING
+# 🔴 ╱╱ 06 — CURRENTLY LEARNING
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### JAVASCRIPT
+### 🔴 JAVASCRIPT
 
 Aprofundando:
 
@@ -302,7 +362,7 @@ Aprofundando:
 
 <td width="50%" valign="top">
 
-### CSS
+### 🔴 CSS
 
 Explorando:
 
@@ -319,7 +379,7 @@ Explorando:
 
 <td width="50%" valign="top">
 
-### FRONT-END
+### 🔴 FRONT-END
 
 Buscando melhorar cada vez mais minha capacidade de transformar conceitos visuais em experiências funcionais.
 
@@ -327,7 +387,7 @@ Buscando melhorar cada vez mais minha capacidade de transformar conceitos visuai
 
 <td width="50%" valign="top">
 
-### PYTHON
+### 🔴 PYTHON
 
 Continuando meus estudos de programação e lógica através de projetos e cursos.
 
@@ -338,9 +398,9 @@ Continuando meus estudos de programação e lógica através de projetos e curso
 
 ---
 
-# ╱╱ 07 — EDUCATION
+# 🔴 ╱╱ 07 — EDUCATION
 
-### 🎨 DESIGN GRÁFICO
+### 🔴 🎨 DESIGN GRÁFICO
 
 **Universidade Anhembi Morumbi**
 
@@ -348,7 +408,7 @@ Formação em Design Gráfico.
 
 ---
 
-### 💻 SISTEMAS DE INFORMAÇÃO
+### ⚫ 💻 SISTEMAS DE INFORMAÇÃO
 
 **3º ANO**
 
@@ -356,23 +416,35 @@ Formação acadêmica voltada para tecnologia, sistemas e desenvolvimento.
 
 ---
 
-### 📚 ALURA
+### 🔴 📚 ALURA
 
 Cursos complementares focados em programação e desenvolvimento.
 
 ---
 
-# ╱╱ 08 — MINDSET
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=700" width="85%"/>
+
+</div>
+
+---
+
+# 🔴 ╱╱ 08 — MINDSET
 
 <div align="center">
 
 ## `I DON'T JUST WANT TO WRITE CODE.`
 
-### `I WANT TO CREATE SOMETHING PEOPLE WANT TO SEE.`
+### 🔴 `I WANT TO CREATE SOMETHING PEOPLE WANT TO SEE.`
 
 <br>
 
 `DESIGN` → `CODE` → `EXPERIENCE`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=4&width=500" width="60%"/>
 
 </div>
 
@@ -382,7 +454,7 @@ Cursos complementares focados em programação e desenvolvimento.
 
 <div align="center">
 
-# TAKE YOUR TIME
+# 🔴 TAKE YOUR TIME
 
 ### **SONHOS SÃO REALIDADES.**
 
@@ -390,7 +462,11 @@ Cursos complementares focados em programação e desenvolvimento.
 
 `THIAGO LIMA`
 
-`DESIGN × CODE × CREATIVITY`
+### `DESIGN × CODE × CREATIVITY`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E60012&height=5&width=700" width="80%"/>
 
 </div>
 
