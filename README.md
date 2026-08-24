@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Copilot_20260824_181339.png" width="500">
+<img src="logo about me.png" width="500">
 
 </div>
 
