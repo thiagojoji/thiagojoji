@@ -32,7 +32,7 @@ Mais do que simplesmente escrever código, quero criar experiências que tenham 
 <td width="35%" align="center" valign="middle">
 
 <!-- GIF DO ABOUT ME -->
-<img src="./assets/about-me.gif" width="300">
+<img src="tumblr_pecq6eBHvH1xqd7tlo1_1280.gif" width="300">
 
 </td>
 
