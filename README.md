@@ -1,4 +1,8 @@
-# ╱╱ 01 — ABOUT ME
+<div align="center">
+
+<img src="" width="500">
+
+</div>
 
 <table>
 <tr>
@@ -26,15 +30,16 @@ Mais do que simplesmente escrever código, quero criar experiências que tenham 
 </td>
 
 <td width="35%" align="center" valign="middle">
-  
-<img src="tumblr_pecq6eBHvH1xqd7tlo1_1280.gif" width="300">
 
+<!-- GIF DO ABOUT ME -->
 <img src="./assets/about-me.gif" width="300">
 
 </td>
 
 </tr>
 </table>
+
+---
 
 ---
 
