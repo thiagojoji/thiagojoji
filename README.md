@@ -41,9 +41,11 @@ Mais do que simplesmente escrever código, quero criar experiências que tenham 
 
 ---
 
----
+<div align="center">
 
-# ╱╱ 02 — BACKGROUND
+<img src="Background logo.png" width="500">
+
+</div>
 
 <table>
 <tr>
@@ -101,7 +103,11 @@ Minha formação atual amplia minha visão sobre tecnologia, programação e des
 
 ---
 
-# ╱╱ 03 — FRONT-END
+<div align="center">
+
+<img src="Front Endd.png" width="500">
+
+</div>
 
 <div align="center">
 
@@ -245,7 +251,11 @@ Meu objetivo é desenvolver projetos que combinem **funcionalidade e identidade 
 
 ---
 
-# ╱╱ 05 — PROJECTS
+<div align="center">
+
+<img src="PROJECTS.png" width="500">
+
+</div>
 
 ## 🃏 YASUO WIKI
 
